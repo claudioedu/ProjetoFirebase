@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "179696919837",
+    "firebase_url": "https://luciannagreen-6e113.firebaseio.com",
+    "project_id": "luciannagreen-6e113",
+    "storage_bucket": "luciannagreen-6e113.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179696919837:android:18a5df6137ded98f",
+        "android_client_info": {
+          "package_name": "br.edu.faculdadedelta.projetofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179696919837-89vs0skf8ai5dasg8kkg3he8o7l16ts9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.faculdadedelta.projetofirebase",
+            "certificate_hash": "966568fb2dabcdc34671e0434532d106b00eb61f"
+          }
+        },
+        {
+          "client_id": "179696919837-684187ppj9oske80d7ktnketnnhs3fbf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.faculdadedelta.projetofirebase",
+            "certificate_hash": "68ee9755adb7acf556e5d2e3dedcb0cb05d32d65"
+          }
+        },
+        {
+          "client_id": "179696919837-j1aoj8sne0f6fnqae7055enlshpt726p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0oqOTVQG9lOqx8yzp59azAx1tSIahRz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179696919837-j1aoj8sne0f6fnqae7055enlshpt726p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

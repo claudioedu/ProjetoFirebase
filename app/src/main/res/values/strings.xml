@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ProjetoFirebase</string>
+    <string name="tela_final">Resultado</string>
+    <string name="question_1">Qual o percentual de água doce no planeta terra?</string>
+    <string name="question_2">Qual o bioma (espaço geográfico) mais ameaçado do país?</string>
+    <string name="question_3">Segundo a Organização Mundial de Saúde (OMS), a cada ano 7 milhões de pessoas morrem por causa da poluição do ar. No Brasil morrem:</string>
+    <string name="res_titulo">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="res_email">Email</string>
+    <string name="res_senha">Senha</string>
+    <string name="res_btnEntrar">Entrar</string>
+    <string name="res_btnNovoCadastro">Não possui cadastro? Cadastre-se</string>
+    <string name="res_cadastro">Cadastre-se</string>
+    <string name="res_nome">Nome</string>
+    <string name="res_confirma">Confirme a Senha</string>
+    <string name="res_btnCadastrar">Cadastrar</string>
+    <string name="res_btnCancelar">Cancelar</string>
+    <string name="res_erroForm">Campo Obrigatório</string>
+    <string name="res_responder">Responder</string>
+    <string name="question_4">A qualidade da água deve atender, entre outros, aos seguintes parâmetros analíticos:\nI. cloro;\nII. turbidez, cor e pH.\nIII. coliformes e flúor.</string>
+    <string name="title_activity_main2">ArchVerde</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configurações</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_exit">Sair</string>
+    <string name="menu_nova_conta">Nova conta</string>
+    <string name="menu_configuracoes">Configuração</string>
+    <string name="menu_resultado_final">Resultado</string>
+    <string name="question_5">Como preservar árvores e florestas?</string>
+    <string name="question_6">Os poluentes lançados no ar pelos escapamentos dos veículos e pelas chaminés das fábricas podem causar:</string>
+    <string name="question_7">Qual dos gases abaixo não é conhecido como um dos gases do Efeito Estufa (GEE)?</string>
+    <string name="question_8">Qual dos elementos abaixo não é utilizado como fonte de energia?</string>
+    <string name="question_9">Acerca da criação e da gestão de florestas públicas nacionais, julgue o item subsequente.  \nAs três modalidades de gestão de florestas públicas nacionais para produção sustentável são:\n-a concessão florestal ao setor privado \n-a destinação de florestas públicas às comunidades locais \n-gestão direta governamental pelo órgão competente integrante do Sistema Nacional de Unidades de Conservação.</string>
+    <string name="question_10">Quando o lixo é jogado nos rios, pode ocorrer:</string>
+    <string name="question_11">Qual atividade mais consome água no mundo:</string>
+    <string name="question_12">Segundo a UNICEF, OMS e  WHO, qual o número estimado de pessoas no mundo sem acesso à água potável?</string>
+</resources>
